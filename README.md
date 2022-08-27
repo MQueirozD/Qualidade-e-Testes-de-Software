@@ -1,7 +1,18 @@
 # Qualidade-e-Testes-de-Software
  
-## Descrição
-O jogo foi desenvolvido no Android Studio utilizando a biblioteca libGDX e consiste em uma replica da versão do jogo Flappy Bird.
+## 💻 IDE Utilizada 
+* Eclipse
 
-## Mecânicas
-O personagem (pássaro) se movimenta na horizonta seguindo para a direita, o jogo estabelece uma gravidade no personagem e irão aparecer obstaculos (canos) no caminho do personagem. O jogador deverá tocar na tela do celular para executar pequenos saltos para ultrapassar a abertura entre os canos. A cada ultrapassagem será adicionado um ponto no marcador. Caso o jogador encoste no cano o jogo términa e será apresentado a pontuação que o jogador realizou na partida e a melhor que tenha realizado jogando.
+## 👩‍💻 Linguagem usada
+*Java
+
+## 📚 Decrição
+* Exercicios da materia de Qualidade e Testes de Software | Faculdade - FACENS(Sorocaba)
+
+## 🧠 Aprendizagem
+* Buscar e implementar os testes de softwares
+* Motrar a implemantação, informando o porque do erro e porque está certo
+
+## 😃 Responsavel
+Mateus de Queiroz Davidson
+* GitHub - https://github.com/MQueirozD
