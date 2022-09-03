@@ -3,7 +3,7 @@ package Calculadora;
 public class TestMultiplicacao {
 	public void mult1 () {
 		//UMA CLASSE SÓ PARA fazer testes de Mutiplicacao
-		Mutiplicacao m = new Mutiplicacao();{
+		Multiplicacao m = new Multiplicacao();{
 			
 			double mutiplicacao = m.mutiplicacao(3, 7);
 			//isso eh um test de mutiplicacao
