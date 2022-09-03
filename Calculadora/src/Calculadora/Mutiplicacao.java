@@ -1,9 +1,9 @@
 package Calculadora;
 
 public class Mutiplicacao {
-	public double mutiplicacao (double a, double b) {
-		/*pegamos as variaveis tipo(double) e dividimos, porque o quando fomos dividir o numero pode ser quebrado
-		por isso coloquei double  */
+	public double mutiplicacao (int a, int b) {
+		//pegamos as variaveis tipo(int) e multiplicamos, é int pq vamos retornar numeors inteiros
+		//retorna o int de A vezes o int de B
 		return (a *b);
 
 	}
